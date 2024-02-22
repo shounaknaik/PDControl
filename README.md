@@ -31,5 +31,10 @@ we publish appropriately joint efforts (continuously with high sampling rates) t
 
    Change the Joint States by trying different values for (x,y,z)
 3. Results
+<img src="./images/scara_1.png" align = "center">
 
+
+<img src="./images/q1.png" align = "center">
+<img src="./images/q2.png" align = "center">
+<img src="./images/q3.png" align = "center">
 
