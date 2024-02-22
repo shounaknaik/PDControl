@@ -1,7 +1,7 @@
 ## PD Control Project
 
-In this project, we implemented a position controller (PD) for the 3 robot joints. We were receiving joint values from the Gazebo simulator. We received a reference value for the joints through a service, and
-we publish appropriately joint efforts (continuously with high sampling rates) to make the joints move so that we achieve the reference value.
+In this project, we implemented a position controller (PD) for the 3 robot joints. We were receiving joint values from the Gazebo simulator. We received a reference value for the joints through a service, we calculate the joint efforts
+and publish them(continuously with high sampling rates) to make the joints move so that we achieve the reference value.
 
 1. Launch the Joint Control Node using:
 
